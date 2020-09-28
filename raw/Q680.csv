@@ -1,0 +1,62 @@
+VentilationId,BldgID,VisitDate,KitchenAC,Room,Active,PrimaryUsage,Windows,Atleast,SupplyFan,ExhaustFan,UnitVentilators,Comments,LastUpdatedBy,LastUpdatedOn,CreatedBy,CreatedDate
+253525,Q680,2020-08-26T00:00:00,Yes & Operational,"
+224",,Student-Staff Space,Yes,Yes,Not Operational,Not Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253484,Q680,2020-08-26T00:00:00,Yes & Operational,102,,Student-Staff Space,No,No,Operational,Not Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253485,Q680,2020-08-26T00:00:00,Yes & Operational,110,,Student-Staff Space,Yes,Yes,Operational,Operational,Partially Operational,1 of 2 ventilatiors operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253486,Q680,2020-08-26T00:00:00,Yes & Operational,112,,Student-Staff Space,No,No,Operational,Not Operational,Partially Operational,1 of 2 ventilatiors operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253487,Q680,2020-08-26T00:00:00,Yes & Operational,114,,Student-Staff Space,No,No,Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253488,Q680,2020-08-26T00:00:00,Yes & Operational,116,,Student-Staff Space,No,No,Operational,Not Operational,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253489,Q680,2020-08-26T00:00:00,Yes & Operational,118,,Student-Staff Space,Yes,Yes,Operational,Operational,Partially Operational,1 of 2 ventilatiors operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253490,Q680,2020-08-26T00:00:00,Yes & Operational,119,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253491,Q680,2020-08-26T00:00:00,Yes & Operational,120,,Student-Staff Space,Yes,Yes,Partially Operational,Operational,Operational,1of 3 supply fans operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253526,Q680,2020-08-26T00:00:00,Yes & Operational,1st Fl Bath,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253527,Q680,2020-08-26T00:00:00,Yes & Operational,210A,,Student-Staff Space,Yes,Yes,Operational,Doesn't Exist,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253492,Q680,2020-08-26T00:00:00,Yes & Operational,211,,Student-Staff Space,Yes,Yes,Operational,Operational,Partially Operational,1 of 2 ventilatiors operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253493,Q680,2020-08-26T00:00:00,Yes & Operational,213,,Student-Staff Space,Yes,Yes,Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253494,Q680,2020-08-26T00:00:00,Yes & Operational,216,,Student-Staff Space,No,No,Not Operational,Partially Operational,Partially Operational,"1 of 3 exhaust fans operational; 1 of 6 ventilators
+operational",,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253495,Q680,2020-08-26T00:00:00,Yes & Operational,217,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253496,Q680,2020-08-26T00:00:00,Yes & Operational,220,,Student-Staff Space,No,No,Not Operational,Not Operational,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253497,Q680,2020-08-26T00:00:00,Yes & Operational,221,,Student-Staff Space,Yes,Yes,Operational,Operational,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253528,Q680,2020-08-26T00:00:00,Yes & Operational,221A,,Student-Staff Space,Yes,Yes,Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253498,Q680,2020-08-26T00:00:00,Yes & Operational,222,,Student-Staff Space,No,No,Not Operational,Not Operational,Partially Operational,1 of 2 ventilatiors operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253499,Q680,2020-08-26T00:00:00,Yes & Operational,223,,Student-Staff Space,Yes,Yes,Partially Operational,Operational,Not Operational,1 of 3 supply fans operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253500,Q680,2020-08-26T00:00:00,Yes & Operational,226,,Student-Staff Space,Yes,Yes,Not Operational,Operational,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253501,Q680,2020-08-26T00:00:00,Yes & Operational,228,,Student-Staff Space,Yes,Yes,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253529,Q680,2020-08-26T00:00:00,Yes & Operational,2nd Fl,,Student-Staff Space,Yes,Yes,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253530,Q680,2020-08-26T00:00:00,Yes & Operational,310C,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253502,Q680,2020-08-26T00:00:00,Yes & Operational,311,,Student-Staff Space,Yes,Yes,Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253503,Q680,2020-08-26T00:00:00,Yes & Operational,312,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253504,Q680,2020-08-26T00:00:00,Yes & Operational,313,,Student-Staff Space,Yes,Yes,Partially Operational,Operational,Operational,2 of 3 supply fans operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253505,Q680,2020-08-26T00:00:00,Yes & Operational,314,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253506,Q680,2020-08-26T00:00:00,Yes & Operational,315,,Student-Staff Space,Yes,Yes,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253531,Q680,2020-08-26T00:00:00,Yes & Operational,316ABC,,Student-Staff Space,Yes,Yes,Partially Operational,Partially Operational,Partially Operational,"3 of 4 supply fans operational; 2 of 3 exhaust fans
+operational; 3 of 4 ventilators operational",,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253507,Q680,2020-08-26T00:00:00,Yes & Operational,318,,Student-Staff Space,Yes,Yes,Not Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253508,Q680,2020-08-26T00:00:00,Yes & Operational,320,,Student-Staff Space,Yes,Yes,Partially Operational,Not Operational,Operational,3 of 4 supply fans operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253509,Q680,2020-08-26T00:00:00,Yes & Operational,321,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253532,Q680,2020-08-26T00:00:00,Yes & Operational,321AB,,Student-Staff Space,Yes,Yes,Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253510,Q680,2020-08-26T00:00:00,Yes & Operational,322,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Partially Operational,1 of 2 ventilatiors operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253533,Q680,2020-08-26T00:00:00,Yes & Operational,3rd Fl Bath,,Student-Staff Space,Yes,No,Not Operational,Operational,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253511,Q680,2020-08-26T00:00:00,Yes & Operational,402,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253512,Q680,2020-08-26T00:00:00,Yes & Operational,404,,Student-Staff Space,Yes,Yes,Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253513,Q680,2020-08-26T00:00:00,Yes & Operational,406,,Student-Staff Space,Yes,Yes,Operational,Operational,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253514,Q680,2020-08-26T00:00:00,Yes & Operational,408,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253515,Q680,2020-08-26T00:00:00,Yes & Operational,411,,Student-Staff Space,Yes,Yes,Operational,Operational,Partially Operational,2 of 3 ventilators operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253516,Q680,2020-08-26T00:00:00,Yes & Operational,412,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253517,Q680,2020-08-26T00:00:00,Yes & Operational,413,,Student-Staff Space,Yes,Yes,Operational,Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253518,Q680,2020-08-26T00:00:00,Yes & Operational,414,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253519,Q680,2020-08-26T00:00:00,Yes & Operational,415,,Student-Staff Space,Yes,No,Not Operational,Operational,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253520,Q680,2020-08-26T00:00:00,Yes & Operational,416,,Student-Staff Space,Yes,Yes,Partially Operational,Operational,Operational,1 of 3 supply fans operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253521,Q680,2020-08-26T00:00:00,Yes & Operational,418,,Student-Staff Space,Yes,Yes,Not Operational,Not Operational,Partially Operational,1 of 2 ventilatiors operational,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253534,Q680,2020-08-26T00:00:00,Yes & Operational,421A,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253535,Q680,2020-08-26T00:00:00,Yes & Operational,421B,,Student-Staff Space,Yes,Yes,Doesn't Exist,Doesn't Exist,Not Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253536,Q680,2020-08-26T00:00:00,Yes & Operational,421C,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253522,Q680,2020-08-26T00:00:00,Yes & Operational,424,,Student-Staff Space,No,No,Operational,Not Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253523,Q680,2020-08-26T00:00:00,Yes & Operational,426,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Operational,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253524,Q680,2020-08-26T00:00:00,Yes & Operational,428,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253537,Q680,2020-08-26T00:00:00,Yes & Operational,B12,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253538,Q680,2020-08-26T00:00:00,Yes & Operational,B-15,,Student-Staff Space,Yes,Yes,Cannot Access,Cannot Access,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253539,Q680,2020-08-26T00:00:00,Yes & Operational,B-17,,Student-Staff Space,No,No,Doesn't Exist,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253540,Q680,2020-08-26T00:00:00,Yes & Operational,Basement Bath,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+253541,Q680,2020-08-26T00:00:00,Yes & Operational,Basement Boys,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00

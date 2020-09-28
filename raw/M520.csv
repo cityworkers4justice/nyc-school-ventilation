@@ -1,0 +1,231 @@
+VentilationId,BldgID,VisitDate,KitchenAC,Room,Active,PrimaryUsage,Windows,Atleast,SupplyFan,ExhaustFan,UnitVentilators,Comments,LastUpdatedBy,LastUpdatedOn,CreatedBy,CreatedDate
+149069,M520,2020-08-27T00:00:00,Yes & Operational,102B,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149070,M520,2020-08-27T00:00:00,Yes & Operational,103,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149071,M520,2020-08-27T00:00:00,Yes & Operational,105,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149072,M520,2020-08-27T00:00:00,Yes & Operational,106,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149073,M520,2020-08-27T00:00:00,Yes & Operational,107,,Student-Staff Space,Yes,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149074,M520,2020-08-27T00:00:00,Yes & Operational,109,,Student-Staff Space,Yes,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149075,M520,2020-08-27T00:00:00,Yes & Operational,111,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149076,M520,2020-08-27T00:00:00,Yes & Operational,114,,Student-Staff space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149077,M520,2020-08-27T00:00:00,Yes & Operational,115,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149078,M520,2020-08-27T00:00:00,Yes & Operational,117,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149079,M520,2020-08-27T00:00:00,Yes & Operational,118B,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149080,M520,2020-08-27T00:00:00,Yes & Operational,124G,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149081,M520,2020-08-27T00:00:00,Yes & Operational,125,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149082,M520,2020-08-27T00:00:00,Yes & Operational,125A,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149083,M520,2020-08-27T00:00:00,Yes & Operational,127,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149084,M520,2020-08-27T00:00:00,Yes & Operational,130,,Inaccessible,,,,,,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149085,M520,2020-08-27T00:00:00,Yes & Operational,131,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149086,M520,2020-08-27T00:00:00,Yes & Operational,131A,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149087,M520,2020-08-27T00:00:00,Yes & Operational,131B,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149088,M520,2020-08-27T00:00:00,Yes & Operational,131C,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149089,M520,2020-08-27T00:00:00,Yes & Operational,131D/129,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149090,M520,2020-08-27T00:00:00,Yes & Operational,132B,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149091,M520,2020-08-27T00:00:00,Yes & Operational,133,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149092,M520,2020-08-27T00:00:00,Yes & Operational,135,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149093,M520,2020-08-27T00:00:00,Yes & Operational,136/144,,Student-Staff Space,No,No,Operational,Cannot Access,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149094,M520,2020-08-27T00:00:00,Yes & Operational,137,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149095,M520,2020-08-27T00:00:00,Yes & Operational,137A,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149096,M520,2020-08-27T00:00:00,Yes & Operational,137B,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149097,M520,2020-08-27T00:00:00,Yes & Operational,137C,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149098,M520,2020-08-27T00:00:00,Yes & Operational,137D,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149099,M520,2020-08-27T00:00:00,Yes & Operational,137E,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149100,M520,2020-08-27T00:00:00,Yes & Operational,137F,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149101,M520,2020-08-27T00:00:00,Yes & Operational,137G,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149102,M520,2020-08-27T00:00:00,Yes & Operational,137H,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149103,M520,2020-08-27T00:00:00,Yes & Operational,137J,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149104,M520,2020-08-27T00:00:00,Yes & Operational,137K,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149105,M520,2020-08-27T00:00:00,Yes & Operational,141,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149106,M520,2020-08-27T00:00:00,Yes & Operational,142,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149107,M520,2020-08-27T00:00:00,Yes & Operational,143,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149108,M520,2020-08-27T00:00:00,Yes & Operational,145,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149109,M520,2020-08-27T00:00:00,Yes & Operational,147,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149110,M520,2020-08-27T00:00:00,Yes & Operational,148G,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149111,M520,2020-08-27T00:00:00,Yes & Operational,149B,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149112,M520,2020-08-27T00:00:00,Yes & Operational,149Z,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149113,M520,2020-08-27T00:00:00,Yes & Operational,151,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149114,M520,2020-08-27T00:00:00,Yes & Operational,153,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149115,M520,2020-08-27T00:00:00,Yes & Operational,154,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149116,M520,2020-08-27T00:00:00,Yes & Operational,157,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149117,M520,2020-08-27T00:00:00,Yes & Operational,158G,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149118,M520,2020-08-27T00:00:00,Yes & Operational,159,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149119,M520,2020-08-27T00:00:00,Yes & Operational,202B,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149120,M520,2020-08-27T00:00:00,Yes & Operational,203,,Student-Staff Space,Yes,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149121,M520,2020-08-27T00:00:00,Yes & Operational,207,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149122,M520,2020-08-27T00:00:00,Yes & Operational,209,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149123,M520,2020-08-27T00:00:00,Yes & Operational,211,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149124,M520,2020-08-27T00:00:00,Yes & Operational,215,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149125,M520,2020-08-27T00:00:00,Yes & Operational,217,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149126,M520,2020-08-27T00:00:00,Yes & Operational,218G,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149127,M520,2020-08-27T00:00:00,Yes & Operational,220,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149128,M520,2020-08-27T00:00:00,Yes & Operational,225A,,Student-Staff Space,Yes,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149129,M520,2020-08-27T00:00:00,Yes & Operational,225B,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149130,M520,2020-08-27T00:00:00,Yes & Operational,229,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149131,M520,2020-08-27T00:00:00,Yes & Operational,231,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149132,M520,2020-08-27T00:00:00,Yes & Operational,233,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149133,M520,2020-08-27T00:00:00,Yes & Operational,233A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149134,M520,2020-08-27T00:00:00,Yes & Operational,233B,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149135,M520,2020-08-27T00:00:00,Yes & Operational,233C,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149136,M520,2020-08-27T00:00:00,Yes & Operational,234,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149137,M520,2020-08-27T00:00:00,Yes & Operational,235A,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149138,M520,2020-08-27T00:00:00,Yes & Operational,235B,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149139,M520,2020-08-27T00:00:00,Yes & Operational,235C,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149140,M520,2020-08-27T00:00:00,Yes & Operational,235D,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149141,M520,2020-08-27T00:00:00,Yes & Operational,235E,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149142,M520,2020-08-27T00:00:00,Yes & Operational,235F,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149143,M520,2020-08-27T00:00:00,Yes & Operational,237,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149144,M520,2020-08-27T00:00:00,Yes & Operational,239,,Student-Staff Space,Yes,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149145,M520,2020-08-27T00:00:00,Yes & Operational,240,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149146,M520,2020-08-27T00:00:00,Yes & Operational,241,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149147,M520,2020-08-27T00:00:00,Yes & Operational,249,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149148,M520,2020-08-27T00:00:00,Yes & Operational,250,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149149,M520,2020-08-27T00:00:00,Yes & Operational,251,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149150,M520,2020-08-27T00:00:00,Yes & Operational,257,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149151,M520,2020-08-27T00:00:00,Yes & Operational,259,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149152,M520,2020-08-27T00:00:00,Yes & Operational,303,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149153,M520,2020-08-27T00:00:00,Yes & Operational,306,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149154,M520,2020-08-27T00:00:00,Yes & Operational,307,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149155,M520,2020-08-27T00:00:00,Yes & Operational,309,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149156,M520,2020-08-27T00:00:00,Yes & Operational,310,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149157,M520,2020-08-27T00:00:00,Yes & Operational,311,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149158,M520,2020-08-27T00:00:00,Yes & Operational,314,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149159,M520,2020-08-27T00:00:00,Yes & Operational,315,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149160,M520,2020-08-27T00:00:00,Yes & Operational,316,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149161,M520,2020-08-27T00:00:00,Yes & Operational,317,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149162,M520,2020-08-27T00:00:00,Yes & Operational,318B,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149163,M520,2020-08-27T00:00:00,Yes & Operational,324G,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149164,M520,2020-08-27T00:00:00,Yes & Operational,325,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149165,M520,2020-08-27T00:00:00,Yes & Operational,328,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149166,M520,2020-08-27T00:00:00,Yes & Operational,329,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149167,M520,2020-08-27T00:00:00,Yes & Operational,330,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149168,M520,2020-08-27T00:00:00,Yes & Operational,330A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149169,M520,2020-08-27T00:00:00,Yes & Operational,330C,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149170,M520,2020-08-27T00:00:00,Yes & Operational,330D,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149171,M520,2020-08-27T00:00:00,Yes & Operational,330E,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149172,M520,2020-08-27T00:00:00,Yes & Operational,330F,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149173,M520,2020-08-27T00:00:00,Yes & Operational,330G,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149174,M520,2020-08-27T00:00:00,Yes & Operational,330H,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149175,M520,2020-08-27T00:00:00,Yes & Operational,330I,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149176,M520,2020-08-27T00:00:00,Yes & Operational,331A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149177,M520,2020-08-27T00:00:00,Yes & Operational,335,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149178,M520,2020-08-27T00:00:00,Yes & Operational,336A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149179,M520,2020-08-27T00:00:00,Yes & Operational,336C,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149180,M520,2020-08-27T00:00:00,Yes & Operational,336D,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149181,M520,2020-08-27T00:00:00,Yes & Operational,337A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149182,M520,2020-08-27T00:00:00,Yes & Operational,337B,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149183,M520,2020-08-27T00:00:00,Yes & Operational,339A,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149184,M520,2020-08-27T00:00:00,Yes & Operational,340,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149185,M520,2020-08-27T00:00:00,Yes & Operational,340A,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149186,M520,2020-08-27T00:00:00,Yes & Operational,340B,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149187,M520,2020-08-27T00:00:00,Yes & Operational,342,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149188,M520,2020-08-27T00:00:00,Yes & Operational,343,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149189,M520,2020-08-27T00:00:00,Yes & Operational,349,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149190,M520,2020-08-27T00:00:00,Yes & Operational,350,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149191,M520,2020-08-27T00:00:00,Yes & Operational,351,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149192,M520,2020-08-27T00:00:00,Yes & Operational,352,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149193,M520,2020-08-27T00:00:00,Yes & Operational,352B,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149194,M520,2020-08-27T00:00:00,Yes & Operational,355,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149195,M520,2020-08-27T00:00:00,Yes & Operational,356,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149196,M520,2020-08-27T00:00:00,Yes & Operational,356A,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149197,M520,2020-08-27T00:00:00,Yes & Operational,357,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149198,M520,2020-08-27T00:00:00,Yes & Operational,358G,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149199,M520,2020-08-27T00:00:00,Yes & Operational,359,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149200,M520,2020-08-27T00:00:00,Yes & Operational,403,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149201,M520,2020-08-27T00:00:00,Yes & Operational,405,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149202,M520,2020-08-27T00:00:00,Yes & Operational,406,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149203,M520,2020-08-27T00:00:00,Yes & Operational,407,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149204,M520,2020-08-27T00:00:00,Yes & Operational,408,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149205,M520,2020-08-27T00:00:00,Yes & Operational,408A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149206,M520,2020-08-27T00:00:00,Yes & Operational,409,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149207,M520,2020-08-27T00:00:00,Yes & Operational,410A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149208,M520,2020-08-27T00:00:00,Yes & Operational,410B,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149209,M520,2020-08-27T00:00:00,Yes & Operational,410C,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149210,M520,2020-08-27T00:00:00,Yes & Operational,411,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149211,M520,2020-08-27T00:00:00,Yes & Operational,412,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149212,M520,2020-08-27T00:00:00,Yes & Operational,414,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149213,M520,2020-08-27T00:00:00,Yes & Operational,415,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149214,M520,2020-08-27T00:00:00,Yes & Operational,417,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149215,M520,2020-08-27T00:00:00,Yes & Operational,418B,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149216,M520,2020-08-27T00:00:00,Yes & Operational,424G,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149217,M520,2020-08-27T00:00:00,Yes & Operational,425,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149218,M520,2020-08-27T00:00:00,Yes & Operational,426,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149219,M520,2020-08-27T00:00:00,Yes & Operational,427,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149220,M520,2020-08-27T00:00:00,Yes & Operational,430,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149221,M520,2020-08-27T00:00:00,Yes & Operational,431,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149222,M520,2020-08-27T00:00:00,Yes & Operational,432,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149223,M520,2020-08-27T00:00:00,Yes & Operational,433,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149224,M520,2020-08-27T00:00:00,Yes & Operational,434,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149225,M520,2020-08-27T00:00:00,Yes & Operational,435,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149226,M520,2020-08-27T00:00:00,Yes & Operational,436A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149227,M520,2020-08-27T00:00:00,Yes & Operational,436B,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149228,M520,2020-08-27T00:00:00,Yes & Operational,439,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149229,M520,2020-08-27T00:00:00,Yes & Operational,440,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149230,M520,2020-08-27T00:00:00,Yes & Operational,440A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149231,M520,2020-08-27T00:00:00,Yes & Operational,440B,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149232,M520,2020-08-27T00:00:00,Yes & Operational,441A,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149233,M520,2020-08-27T00:00:00,Yes & Operational,441B,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149234,M520,2020-08-27T00:00:00,Yes & Operational,442,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149235,M520,2020-08-27T00:00:00,Yes & Operational,443,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149236,M520,2020-08-27T00:00:00,Yes & Operational,444,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149237,M520,2020-08-27T00:00:00,Yes & Operational,448,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149238,M520,2020-08-27T00:00:00,Yes & Operational,449,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149239,M520,2020-08-27T00:00:00,Yes & Operational,452,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149240,M520,2020-08-27T00:00:00,Yes & Operational,455,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149241,M520,2020-08-27T00:00:00,Yes & Operational,456,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149242,M520,2020-08-27T00:00:00,Yes & Operational,457,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149243,M520,2020-08-27T00:00:00,Yes & Operational,458G,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149244,M520,2020-08-27T00:00:00,Yes & Operational,459,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149245,M520,2020-08-27T00:00:00,Yes & Operational,500,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149246,M520,2020-08-27T00:00:00,Yes & Operational,504,,Inaccessible,,,,,,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149247,M520,2020-08-27T00:00:00,Yes & Operational,506,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149248,M520,2020-08-27T00:00:00,Yes & Operational,508A,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149249,M520,2020-08-27T00:00:00,Yes & Operational,508B,,Inaccessible,,,,,,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149250,M520,2020-08-27T00:00:00,Yes & Operational,516,,Inaccessible,,,,,,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149251,M520,2020-08-27T00:00:00,Yes & Operational,518,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149252,M520,2020-08-27T00:00:00,Yes & Operational,542B,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149253,M520,2020-08-27T00:00:00,Yes & Operational,542G,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149254,M520,2020-08-27T00:00:00,Yes & Operational,550,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149255,M520,2020-08-27T00:00:00,Yes & Operational,554,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149256,M520,2020-08-27T00:00:00,Yes & Operational,558,,Inaccessible,,,,,,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149257,M520,2020-08-27T00:00:00,Yes & Operational,616,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149258,M520,2020-08-27T00:00:00,Yes & Operational,620,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149259,M520,2020-08-27T00:00:00,Yes & Operational,B1,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149260,M520,2020-08-27T00:00:00,Yes & Operational,B11,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149261,M520,2020-08-27T00:00:00,Yes & Operational,B14ABC,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149262,M520,2020-08-27T00:00:00,Yes & Operational,B15,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149263,M520,2020-08-27T00:00:00,Yes & Operational,B17,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149264,M520,2020-08-27T00:00:00,Yes & Operational,B18B,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149265,M520,2020-08-27T00:00:00,Yes & Operational,B24G,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149266,M520,2020-08-27T00:00:00,Yes & Operational,B25A,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149267,M520,2020-08-27T00:00:00,Yes & Operational,B25B,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149268,M520,2020-08-27T00:00:00,Yes & Operational,B29,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149269,M520,2020-08-27T00:00:00,Yes & Operational,B2B,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149270,M520,2020-08-27T00:00:00,Yes & Operational,B2G,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149271,M520,2020-08-27T00:00:00,Yes & Operational,B3,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149272,M520,2020-08-27T00:00:00,Yes & Operational,B30,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149273,M520,2020-08-27T00:00:00,Yes & Operational,B30A,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149274,M520,2020-08-27T00:00:00,Yes & Operational,B33,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149275,M520,2020-08-27T00:00:00,Yes & Operational,B33A,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149276,M520,2020-08-27T00:00:00,Yes & Operational,B33B,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149277,M520,2020-08-27T00:00:00,Yes & Operational,B33C,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149278,M520,2020-08-27T00:00:00,Yes & Operational,B33D,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149279,M520,2020-08-27T00:00:00,Yes & Operational,B35,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149280,M520,2020-08-27T00:00:00,Yes & Operational,B36,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149281,M520,2020-08-27T00:00:00,Yes & Operational,B37,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149282,M520,2020-08-27T00:00:00,Yes & Operational,B40,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149283,M520,2020-08-27T00:00:00,Yes & Operational,B43,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149284,M520,2020-08-27T00:00:00,Yes & Operational,B44,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149285,M520,2020-08-27T00:00:00,Yes & Operational,B48G,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149286,M520,2020-08-27T00:00:00,Yes & Operational,B49,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149287,M520,2020-08-27T00:00:00,Yes & Operational,B5,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149288,M520,2020-08-27T00:00:00,Yes & Operational,B50,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149289,M520,2020-08-27T00:00:00,Yes & Operational,B51,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149290,M520,2020-08-27T00:00:00,Yes & Operational,B55A,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149291,M520,2020-08-27T00:00:00,Yes & Operational,B55B,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149292,M520,2020-08-27T00:00:00,Yes & Operational,B56,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149293,M520,2020-08-27T00:00:00,Yes & Operational,B57,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149294,M520,2020-08-27T00:00:00,Yes & Operational,B58G,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149295,M520,2020-08-27T00:00:00,Yes & Operational,B59,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149296,M520,2020-08-27T00:00:00,Yes & Operational,B7,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149297,M520,2020-08-27T00:00:00,Yes & Operational,GYM1,,Student-Staff Space,No,No,Cannot Access,Cannot Access,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+149298,M520,2020-08-27T00:00:00,Yes & Operational,GYM2,,Student-Staff Space,No,No,Cannot Access,Cannot Access,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00

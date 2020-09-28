@@ -1,0 +1,65 @@
+VentilationId,BldgID,VisitDate,KitchenAC,Room,Active,PrimaryUsage,Windows,Atleast,SupplyFan,ExhaustFan,UnitVentilators,Comments,LastUpdatedBy,LastUpdatedOn,CreatedBy,CreatedDate
+200622,K971,2020-08-31T00:00:00,Yes-But Not Operational,101,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-1/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+200623,K971,2020-08-31T00:00:00,Yes-But Not Operational,102,,Student-Staff Space,Yes,Yes,Not Operational,Partially Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211396,K971,2020-08-31T00:00:00,Yes-But Not Operational,102A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+200624,K971,2020-08-31T00:00:00,Yes-But Not Operational,104,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211397,K971,2020-08-31T00:00:00,Yes-But Not Operational,104C,,Student-Staff Space,Yes,Yes,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+200625,K971,2020-08-31T00:00:00,Yes-But Not Operational,105,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+200626,K971,2020-08-31T00:00:00,Yes-But Not Operational,107,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211398,K971,2020-08-31T00:00:00,Yes-But Not Operational,107A/101A,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211365,K971,2020-08-31T00:00:00,Yes-But Not Operational,108,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211366,K971,2020-08-31T00:00:00,Yes-But Not Operational,110,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211367,K971,2020-08-31T00:00:00,Yes-But Not Operational,111,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211368,K971,2020-08-31T00:00:00,Yes-But Not Operational,112,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211369,K971,2020-08-31T00:00:00,Yes-But Not Operational,201,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-1/2 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211399,K971,2020-08-31T00:00:00,Yes-But Not Operational,201A,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211370,K971,2020-08-31T00:00:00,Yes-But Not Operational,202,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-2/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211400,K971,2020-08-31T00:00:00,Yes-But Not Operational,202A/204A,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211371,K971,2020-08-31T00:00:00,Yes-But Not Operational,204,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211372,K971,2020-08-31T00:00:00,Yes-But Not Operational,205,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211373,K971,2020-08-31T00:00:00,Yes-But Not Operational,207,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-2/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211401,K971,2020-08-31T00:00:00,Yes-But Not Operational,207A/201A,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211374,K971,2020-08-31T00:00:00,Yes-But Not Operational,208,,Student-Staff Space,No,No,Partially Operational,Not Operational,Doesn't Exist,Supply Diffuser 2/3 work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211402,K971,2020-08-31T00:00:00,Yes-But Not Operational,208B,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211375,K971,2020-08-31T00:00:00,Yes-But Not Operational,209,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211376,K971,2020-08-31T00:00:00,Yes-But Not Operational,211,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211403,K971,2020-08-31T00:00:00,Yes-But Not Operational,211A,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211377,K971,2020-08-31T00:00:00,Yes-But Not Operational,301,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-1/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211404,K971,2020-08-31T00:00:00,Yes-But Not Operational,301A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211378,K971,2020-08-31T00:00:00,Yes-But Not Operational,302,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-1/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211405,K971,2020-08-31T00:00:00,Yes-But Not Operational,302A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211379,K971,2020-08-31T00:00:00,Yes-But Not Operational,304,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-2/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211406,K971,2020-08-31T00:00:00,Yes-But Not Operational,304A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211380,K971,2020-08-31T00:00:00,Yes-But Not Operational,306,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,"Wardrobe Exhaust-2/3 grilles work, Ceiling return grilles-1/2 work",,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211407,K971,2020-08-31T00:00:00,Yes-But Not Operational,306A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211381,K971,2020-08-31T00:00:00,Yes-But Not Operational,307,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-2/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211408,K971,2020-08-31T00:00:00,Yes-But Not Operational,307A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211382,K971,2020-08-31T00:00:00,Yes-But Not Operational,309,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211383,K971,2020-08-31T00:00:00,Yes-But Not Operational,311,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211384,K971,2020-08-31T00:00:00,Yes-But Not Operational,313,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,"Wardrobe Exhaust-1/3 grilles work, Ceiling return grilles-1/2 work",,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211409,K971,2020-08-31T00:00:00,Yes-But Not Operational,313A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211385,K971,2020-08-31T00:00:00,Yes-But Not Operational,315,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211386,K971,2020-08-31T00:00:00,Yes-But Not Operational,316,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211387,K971,2020-08-31T00:00:00,Yes-But Not Operational,401,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211410,K971,2020-08-31T00:00:00,Yes-But Not Operational,401A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211388,K971,2020-08-31T00:00:00,Yes-But Not Operational,402,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-1/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211411,K971,2020-08-31T00:00:00,Yes-But Not Operational,402A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211389,K971,2020-08-31T00:00:00,Yes-But Not Operational,404,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,"Wardrobe Exhaust-2/3 grilles work, Ceiling return grilles-1/2 work",,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211412,K971,2020-08-31T00:00:00,Yes-But Not Operational,404A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211390,K971,2020-08-31T00:00:00,Yes-But Not Operational,406,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,Wardrobe Exhaust-1/3 grilles work,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211413,K971,2020-08-31T00:00:00,Yes-But Not Operational,406A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211391,K971,2020-08-31T00:00:00,Yes-But Not Operational,407,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211414,K971,2020-08-31T00:00:00,Yes-But Not Operational,407A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211392,K971,2020-08-31T00:00:00,Yes-But Not Operational,408,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211415,K971,2020-08-31T00:00:00,Yes-But Not Operational,409S,,Student-Staff Space,Yes,Yes,Operational,Partially Operational,Doesn't Exist,"Wardrobe Exhaust-2/3 grilles work, Ceiling return grilles-2/3 work",,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211393,K971,2020-08-31T00:00:00,Yes-But Not Operational,413,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211416,K971,2020-08-31T00:00:00,Yes-But Not Operational,413A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211394,K971,2020-08-31T00:00:00,Yes-But Not Operational,415,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211395,K971,2020-08-31T00:00:00,Yes-But Not Operational,416,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211417,K971,2020-08-31T00:00:00,Yes-But Not Operational,C02,,Student-Staff Space,No,No,Not Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211418,K971,2020-08-31T00:00:00,Yes-But Not Operational,C03,,Student-Staff Space,No,No,Not Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211419,K971,2020-08-31T00:00:00,Yes-But Not Operational,C04A,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211420,K971,2020-08-31T00:00:00,Yes-But Not Operational,C04B,,Student-Staff Space,No,No,Doesn't Exist,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211421,K971,2020-08-31T00:00:00,Yes-But Not Operational,C05,,Student-Staff Space,No,No,Not Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211422,K971,2020-08-31T00:00:00,Yes-But Not Operational,C11,,Student-Staff Space,No,No,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+211423,K971,2020-08-31T00:00:00,Yes-But Not Operational,C15,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00

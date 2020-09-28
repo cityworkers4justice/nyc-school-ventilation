@@ -1,0 +1,61 @@
+VentilationId,BldgID,VisitDate,KitchenAC,Room,Active,PrimaryUsage,Windows,Atleast,SupplyFan,ExhaustFan,UnitVentilators,Comments,LastUpdatedBy,LastUpdatedOn,CreatedBy,CreatedDate
+178365,Q398,2020-08-27T00:00:00,Yes & Operational,104,,Student-Staff Space,No,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178406,Q398,2020-08-27T00:00:00,Yes & Operational,104A Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178407,Q398,2020-08-27T00:00:00,Yes & Operational,104B Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178366,Q398,2020-08-27T00:00:00,Yes & Operational,105,,Student-Staff Space,Yes,No,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178367,Q398,2020-08-27T00:00:00,Yes & Operational,110,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178368,Q398,2020-08-27T00:00:00,Yes & Operational,111,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178369,Q398,2020-08-27T00:00:00,Yes & Operational,113,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178370,Q398,2020-08-27T00:00:00,Yes & Operational,114,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178371,Q398,2020-08-27T00:00:00,Yes & Operational,115,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178408,Q398,2020-08-27T00:00:00,Yes & Operational,115A Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178409,Q398,2020-08-27T00:00:00,Yes & Operational,115B Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178372,Q398,2020-08-27T00:00:00,Yes & Operational,116,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178410,Q398,2020-08-27T00:00:00,Yes & Operational,119 Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178373,Q398,2020-08-27T00:00:00,Yes & Operational,201,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178374,Q398,2020-08-27T00:00:00,Yes & Operational,202,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178375,Q398,2020-08-27T00:00:00,Yes & Operational,203,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178411,Q398,2020-08-27T00:00:00,Yes & Operational,203A Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178376,Q398,2020-08-27T00:00:00,Yes & Operational,204,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178412,Q398,2020-08-27T00:00:00,Yes & Operational,204A Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178377,Q398,2020-08-27T00:00:00,Yes & Operational,205,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178413,Q398,2020-08-27T00:00:00,Yes & Operational,205A Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178414,Q398,2020-08-27T00:00:00,Yes & Operational,207 Toilet Rm.,,Student-Staff Space,Yes,Yes,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178415,Q398,2020-08-27T00:00:00,Yes & Operational,209 Toilet Rm.,,Student-Staff Space,Yes,Yes,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178378,Q398,2020-08-27T00:00:00,Yes & Operational,210,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178379,Q398,2020-08-27T00:00:00,Yes & Operational,211,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178380,Q398,2020-08-27T00:00:00,Yes & Operational,212,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178381,Q398,2020-08-27T00:00:00,Yes & Operational,213,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178382,Q398,2020-08-27T00:00:00,Yes & Operational,214,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178383,Q398,2020-08-27T00:00:00,Yes & Operational,217,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178384,Q398,2020-08-27T00:00:00,Yes & Operational,218,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178385,Q398,2020-08-27T00:00:00,Yes & Operational,301,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178386,Q398,2020-08-27T00:00:00,Yes & Operational,302,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178387,Q398,2020-08-27T00:00:00,Yes & Operational,303,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178388,Q398,2020-08-27T00:00:00,Yes & Operational,304,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178389,Q398,2020-08-27T00:00:00,Yes & Operational,305,,Student-Staff Space,Yes,Yes,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178390,Q398,2020-08-27T00:00:00,Yes & Operational,308,,Student-Staff Space,No,No,Operational,Doesn't Exist,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178416,Q398,2020-08-27T00:00:00,Yes & Operational,309 Toilet Rm.,,Student-Staff Space,Yes,Yes,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178417,Q398,2020-08-27T00:00:00,Yes & Operational,310 Toilet Rm.,,Student-Staff Space,Yes,Yes,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178418,Q398,2020-08-27T00:00:00,Yes & Operational,311 Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178391,Q398,2020-08-27T00:00:00,Yes & Operational,312,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178392,Q398,2020-08-27T00:00:00,Yes & Operational,313,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178393,Q398,2020-08-27T00:00:00,Yes & Operational,314,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178394,Q398,2020-08-27T00:00:00,Yes & Operational,315,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178395,Q398,2020-08-27T00:00:00,Yes & Operational,316,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178396,Q398,2020-08-27T00:00:00,Yes & Operational,319,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178397,Q398,2020-08-27T00:00:00,Yes & Operational,401,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178398,Q398,2020-08-27T00:00:00,Yes & Operational,402,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178419,Q398,2020-08-27T00:00:00,Yes & Operational,403A Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178420,Q398,2020-08-27T00:00:00,Yes & Operational,403B Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178421,Q398,2020-08-27T00:00:00,Yes & Operational,406 Toilet Rm.,,Student-Staff Space,Yes,Yes,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178422,Q398,2020-08-27T00:00:00,Yes & Operational,407 Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178423,Q398,2020-08-27T00:00:00,Yes & Operational,408 Toilet Rm.,,Student-Staff Space,Yes,Yes,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178399,Q398,2020-08-27T00:00:00,Yes & Operational,409,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178400,Q398,2020-08-27T00:00:00,Yes & Operational,410,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178401,Q398,2020-08-27T00:00:00,Yes & Operational,411,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178402,Q398,2020-08-27T00:00:00,Yes & Operational,412,,Student-Staff Space,Yes,Yes,Operational,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178403,Q398,2020-08-27T00:00:00,Yes & Operational,413,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178404,Q398,2020-08-27T00:00:00,Yes & Operational,414,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178405,Q398,2020-08-27T00:00:00,Yes & Operational,417,,Student-Staff Space,Yes,Yes,Operational,Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00
+178424,Q398,2020-08-27T00:00:00,Yes & Operational,417A Toilet Rm.,,Student-Staff Space,No,No,Doesn't Exist,Not Operational,Doesn't Exist,,,0001-01-01T00:00:00,,0001-01-01T00:00:00

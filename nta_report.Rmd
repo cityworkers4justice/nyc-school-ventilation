@@ -1,0 +1,104 @@
+---
+title: "School Ventilation by NTA"
+author: "CityWorkers4Justice"
+date: "9/28/2020"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r data prep, echo=FALSE, message=FALSE, warning=FALSE}
+# rename columns
+df <- district_data %>%
+  arrange(NTA) %>%
+  select(NTA, NTA_Name, contains("perc_")) %>%
+  rename("Windows present" = "perc_rooms_windows",
+         "Windows that open" = "perc_rooms_windows_open",
+         "Supply fan present" = "perc_rooms_supplyFan",
+         "Supply fan operational" = "perc_rooms_supplyFan_operational",
+         "Supply fan partially operational" = "perc_rooms_supplyFan_partOperational",
+         "Supply fan non-operational"  = "perc_rooms_supplyFan_nonOperational",
+         "Exhaust fan present" = "perc_rooms_exhaustFan",
+         "Exhaust fan operational" = "perc_rooms_exhaustFan_operational",
+         "Exhaust fan partially operational" = "perc_rooms_exhaustFan_partOperational",
+         "Exhaust fan non-operational" = "perc_rooms_exhaustFan_nonOperational",
+         "Ventilation unit present" = "perc_rooms_unitVentilator",
+         "Ventilation unit operational" = "perc_rooms_unitVentilator_operational",
+         "Ventilation unit partially operational" = "perc_rooms_unitVentilator_partOperational",
+         "Ventilation unit non-operational" = "perc_rooms_unitVentilator_nonOperational")
+
+# save mapping data
+map_data <- nta_data %>%
+  inner_join(df, by = c("nta_id" = "NTA")) %>%
+  st_transform(crs = 4326)
+
+# define map theme
+theme_map <- function(...) {
+  theme_minimal() +
+  theme(
+    text = element_text(family = "Ubuntu Regular", color = "#22211d"),
+    axis.line = element_blank(),
+    axis.text.x = element_blank(),
+    axis.text.y = element_blank(),
+    axis.ticks = element_blank(),
+    axis.title.x = element_blank(),
+    axis.title.y = element_blank(),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#f5f5f2", color = NA, size = 1), 
+    panel.background = element_rect(fill = "#f5f5f2", color = NA, size = 1), 
+    legend.background = element_rect(fill = "#f5f5f2", color = NA, size = 1),
+    panel.border = element_blank(),
+    ...
+  )
+}
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+selectInput("var","Select Variable to Map", choices = c("Windows present",
+                                                        "Windows that open",                      
+                                                        "Supply fan present",                    
+                                                        "Supply fan operational",                 
+                                                        "Supply fan partially operational",        
+                                                        "Supply fan non-operational",             
+                                                        "Exhaust fan present",                    
+                                                        "Exhaust fan operational",                
+                                                        "Exhaust fan partially operational",      
+                                                        "Exhaust fan non-operational",            
+                                                        "Ventilation unit present",               
+                                                        "Ventilation unit operational",           
+                                                        "Ventilation unit partially operational", 
+                                                        "Ventilation unit non-operational"))
+
+# save plotting function
+map <- reactive({
+  ggplot() +
+    base_map(st_bbox(map_data), basemap = "positron", increase_zoom = 2) +
+    geom_sf(data = map_data, aes(fill = !!as.symbol(input$var))) +
+    theme_map() +
+    viridis::scale_fill_viridis("", labels = scales::label_percent(scale = 1), alpha = 0.8) +
+    labs(x = NULL, y = NULL, 
+         title = "School Building Ventilation Survey", 
+         subtitle = paste0(input$var, " (% of total rooms)"),
+         caption = "Source: NYC DOE")
+})
+
+# add download handler
+downloadHandler(
+  filename = function() {paste0("NYC School Ventilation- ", input$var, ".png")},
+  content = function(file) {ggsave(file, map())}
+)
+
+# render plot
+renderPlot({map()})
+
+library(DT)
+renderDataTable({
+  DT::datatable(df, rownames = FALSE, options = list(scrollX = TRUE))
+})
+```
+
+

@@ -4,6 +4,10 @@ author: "CityWorkers4Justice"
 date: "9/28/2020"
 output: html_document
 runtime: shiny
+resource_files:
+- global.R
+- data/NYC_School_Locations.csv
+- output/NYC_Schools_Ventilation_Data.csv
 ---
 
 ```{r setup, include=FALSE}

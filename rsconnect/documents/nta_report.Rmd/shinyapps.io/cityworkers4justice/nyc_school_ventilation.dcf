@@ -5,8 +5,9 @@ account: cityworkers4justice
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2906714
-bundleId: 3681235
+bundleId: 3681241
 url: https://cityworkers4justice.shinyapps.io/nyc_school_ventilation/
-when: 1601342049.76691
+when: 1601342270.26488
 asMultiple: FALSE
 asStatic: FALSE
+additionalFiles: global.R|data/NYC_School_Locations.csv|output/NYC_Schools_Ventilation_Data.csv

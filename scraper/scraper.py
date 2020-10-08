@@ -100,7 +100,7 @@ writer.writerow(headers)
 
 # Columns to generate Series objects from, & values to be extracted from those Series
 columns = ['PrimaryUsage', 'Windows', 'Atleast', 'SupplyFan', 'ExhaustFan', 'UnitVentilators']
-values = [['Student-Staff Space'], ['Yes'], ['yes'], ['Operational', 'Partially Operational', 'Not Operational'], ['Operational', 'Partially Operational', 'Not Operational'], ['Operational', 'Partially Operational', 'Not Operational']]
+values = [['Student-Staff Space'], ['Yes'], ['Yes'], ['Operational', 'Partially Operational', 'Not Operational'], ['Operational', 'Partially Operational', 'Not Operational'], ['Operational', 'Partially Operational', 'Not Operational']]
 
 # For every school data file:
 #   Read the school data file

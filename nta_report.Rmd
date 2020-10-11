@@ -102,7 +102,7 @@ renderPlot({map()})
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 # add variable selectors
-selectInput("covar", "Select Covariate", choices = c("Population living in poverty" = "pop_inpov_pct_est",
+selectInput("covar", "Select Covariate", choices = c("Low income population" = "pop_inpov_pct_est",
                                                      "Non-White population" = "pop_nonwhite_pct_est",
                                                      "Black population" = "pop_black_pct_est",
                                                      "Latinx population" = "pop_hisp_pct_est",
@@ -130,7 +130,7 @@ bi_map <- reactive({
 
 # save y-axis label name
 ylab <- reactive({
-  ifelse(input$covar == "pop_inpov_pct_est", "Population living in poverty",
+  ifelse(input$covar == "pop_inpov_pct_est", "Low income population",
                  ifelse(input$covar == "pop_nonwhite_pct_est", "Non-White population",
                         ifelse(input$covar == "pop_black_pct_est", "Black population",
                                ifelse(input$covar == "pop_hisp_pct_est", "Latinx population",

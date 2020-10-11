@@ -4,16 +4,10 @@ library(sf)
 library(basemapR)
 
 # read in data
-ventilation_data <- read_csv("output/NYC_Schools_Ventilation_Data.csv")
+ventilation_data <- read_csv("scraper/output/NYC_Schools_Ventilation_Data.csv")
 school_locations <- read_csv("data/NYC_School_Locations.csv")
 nta_data <- nycgeo::nyc_boundaries(geography = "nta", add_acs_data = TRUE) %>%
   mutate(pop_nonwhite_pct_est = 1 - pop_white_pct_est)
-
-# rename columns
-names(ventilation_data) <- c("Primary_building_code","rooms_total","windows","windows_open", 
-                             "supplyFan_operational","supplyFan_partOperational","supplyFan_nonOperational",
-                             "exhaustFan_operational","exhaustFan_partOperational","exhaustFan_nonOperational",
-                             "unitVentilator_operational","unitVentilator_partOperational","unitVentilator_nonOperational")
 
 # calculate totals
 ventilation_data <- ventilation_data %>%

@@ -85,7 +85,7 @@ map <- reactive({
     labs(x = NULL, y = NULL, 
          title = "School Building Ventilation Survey", 
          subtitle = paste0(input$var, " (% of total rooms)"),
-         caption = "Source: NYC DOE (Data as of Sept. 25, 2020)")
+         caption = "Source: NYC DOE (Data as of October 8, 2020)")
 })
 
 # add download handler
